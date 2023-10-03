@@ -4,6 +4,7 @@ public class ByBy
 {
 
     System.out.println("ByBY ! ") ; 
+ System.out.println("Stay safe ! ") ; 
 
 }
 
